@@ -1,5 +1,5 @@
 # Project exclude paths
 /out/
+/.idea/
 # excluded files
 UkolLekce03PJIfLoop.iml
-.gitignore
